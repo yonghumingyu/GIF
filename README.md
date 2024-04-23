@@ -1,5 +1,5 @@
 # GIF
 
 <center class ='img'>
-< img title="XX" src="2022-01-02-03：40.png" width="45%">
+< img title="XX" src="output_0.gif" width="45%">
 </center>
